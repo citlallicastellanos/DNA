@@ -1,0 +1,58 @@
+
+body{
+    background-color: #FBFCFC;
+    font-family: 'Questrial', sans-serif;
+    color: #424949;
+    font-size: medium;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+
+
+}
+
+.DNA {
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+
+.tittle-qué {
+    color: rgb(12, 12, 93);
+}
+
+.editgen{
+    color: rgb(12, 12, 93);
+}
+
+.sabqué{
+    color: rgb(12, 12, 93);
+}
+
+.con{
+    color: rgb(12, 12, 93);
+}
+
+.info{
+    color: rgb(12, 12, 93);
+}
+
+.quees{
+    font-size: larger;
+    text-align: justify;
+} 
+
+.proceso{
+    text-align: right;
+}
+
+.tittle {
+    width: 60%;
+}
+
+.etica{
+    color:rgb(12, 12, 93) ;
+    font-size: large;
+}
+
